@@ -121,19 +121,19 @@
 	],
 	"projects": [
 		{
-			"name": "Project",
+			"name": "Securing a Local Network with Wazuh",
 			"startDate": "2019-01-01",
 			"endDate": "2021-01-01",
-			"description": "Description...",
+			"description": "This project involves deploying and configuring Wazuh, an open-source security monitoring and SIEM solution, to enhance network visibility and security. The deployment focuses on implementing Wazuh agents across a local network, with an Ubuntu Virtual Private Server (VPS) serving as the central Wazuh server.",
 			"highlights": [
-				"Won award at AIHacks 2016"
+				"Installed and configured Wazuh Server on an Ubuntu VPS.", "Configured agents to communicate with the Wazuh server for real-time monitoring and data analysis.", "Established dashboards for centralized visualization and reporting."
 			],
 			"url": "https://project.com/",
 			"roles": [
 				"Team Lead"
 			],
 			"keywords": [
-				"CSS"
+				"Linux", "Endpoint Security", "Cybersecurity and SIEM Tools"
 			]
 		}
 	]
